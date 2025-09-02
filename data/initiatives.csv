@@ -1,1 +1,2 @@
 slug,name,acronym,owner_org,governance_body,homepage_url,spec_repo_url,scope_domains,geographies,standard_types,stage,license,known_adopters,overlaps_with,dependencies,interoperability_notes
+"common-basic-dataset","Common basic data set (CBDS): database","CBDS","Department for Education",,https://www.gov.uk/government/publications/common-basic-data-set-cbds-database,,"education;management information",,,"active",,,,"The latest common basic data set (CBDS) and version control log for use by software suppliers developing management information systems."
