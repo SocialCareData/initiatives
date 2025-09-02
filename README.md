@@ -3,7 +3,7 @@ A list of potentially related initiatives in Adult and Children's Social Care
 
 Initially, a simple list to record initiatives with potentially overlapping scopes to support strategic alignment and interoperability.
 
-
+[You can view the list here](https://github.com/SocialCareData/initiatives/blob/main/data/initiatives.csv)
 
 In time, we'll likely extend to provide an open record of status in relation to this programme.
 
