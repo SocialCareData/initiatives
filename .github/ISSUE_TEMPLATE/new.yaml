@@ -1,0 +1,147 @@
+name: Add or update an initiative
+description: Propose a new initiative or changes to an existing record
+title: "[Add/Update] "
+body:
+  - type: input
+    id: slug
+    attributes:
+      label: slug
+      description: Unique kebab-case ID for the initiative (used as the key), e.g., city-open-schema.
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: name
+    attributes:
+      label: name
+      description: Full official name of the initiative.
+      placeholder: 
+    validations:
+      required: true
+
+  - type: input
+    id: acronym
+    attributes:
+      label: acronym
+      description: Short code or abbreviation (optional).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: owner_org
+    attributes:
+      label: owner_org
+      description: Organisation that owns or stewards the initiative.
+      placeholder: 
+    validations:
+      required: true
+
+  - type: input
+    id: governance_body
+    attributes:
+      label: governance_body
+      description: Committee/WG overseeing it (optional).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: homepage_url
+    attributes:
+      label: homepage_url
+      description: Public landing page for the initiative (URL).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: spec_repo_url
+    attributes:
+      label: spec_repo_url
+      description: Repository for specs/code (URL), if applicable.
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: scope_domains
+    attributes:
+      label: scope_domains
+      description: Topical domains/tags; semicolon-separated (e.g., health;terminology).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: geographies
+    attributes:
+      label: geographies
+      description: Jurisdictions/regions covered; semicolon-separated (e.g., global;UK).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: standard_types
+    attributes:
+      label: standard_types
+      description: Type(s) of standard; semicolon-separated (data-model;schema;api;vocabulary).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: stage
+    attributes:
+      label: stage
+      description: Lifecycle status (enum; use one): planning | draft | active | deprecated.
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: license
+    attributes:
+      label: license
+      description: License covering the spec/data model (e.g., CC BY 4.0, Apache-2.0).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: known_adopters
+    attributes:
+      label: known_adopters
+      description: Public adopters/implementers; semicolon-separated (optional).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: overlaps_with
+    attributes:
+      label: overlaps_with
+      description: Slugs of related/overlapping initiatives; semicolon-separated (optional).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: input
+    id: dependencies
+    attributes:
+      label: dependencies
+      description: Slugs of prerequisite standards; semicolon-separated (optional).
+      placeholder: 
+    validations:
+      required: false
+
+  - type: textarea
+    id: interoperability_notes
+    attributes:
+      label: interoperability_notes
+      description: Brief notes on mappings/alignments (public-safe).
+      placeholder: 
+    validations:
+      required: false
