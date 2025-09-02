@@ -96,7 +96,7 @@ body:
     id: stage
     attributes:
       label: stage
-      description: Lifecycle status (enum; use one): planning | draft | active | deprecated.
+      description: Lifecycle status (e.g planning | draft | active | deprecated).
       placeholder: 
     validations:
       required: false
