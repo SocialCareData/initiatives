@@ -71,7 +71,8 @@ def main(csv_path):
   if "slug" not in fields or not fields["slug"].strip():
     print("ERROR: 'slug' is required in the issue form", file=sys.stderr); 
     slug = ""
-  else slug = fields["slug"].strip()
+  else:
+    slug = fields["slug"].strip()
 
   today = date.today().strftime("%Y-%m-%d")
 
