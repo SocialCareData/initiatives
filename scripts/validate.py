@@ -3,7 +3,7 @@ import csv, sys, re
 from datetime import datetime
 from urllib.parse import urlparse
 
-REQUIRED_FIELDS = {"slug", "name", "owner_org", "stage"}
+REQUIRED_FIELDS = {"name"}
 REQUIRED_IF_PRESENT = {"last_updated_date", "last_updated_by"}
 
 ENUMS = {
