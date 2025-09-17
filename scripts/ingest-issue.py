@@ -69,7 +69,7 @@ def main(csv_path):
   fields = parse_form_fields(body)
 
   if "slug" not in fields or not fields["slug"].strip():
-    print("ERROR: 'slug' is required in the issue form", file=sys.stderr); sys.exit(1)
+    print("ERROR: 'slug' is required in the issue form", file=sys.stderr); 
 
   today = date.today().strftime("%Y-%m-%d")
 
