@@ -2,6 +2,8 @@
 
 Initially, a simple list to record initiatives with potentially overlapping scopes to support strategic alignment and interoperability.
 
+[Create an issue to add to or update this list here](https://github.com/SocialCareData/initiatives/issues/new?template=new.yml&title=Add+or+update+initiative:)
+
 ## Initiatives
 
 | Name | Acronym | Owner Organisation | Homepage | Scope Domains | Stage | Notes |
@@ -36,3 +38,5 @@ Initially, a simple list to record initiatives with potentially overlapping scop
 - scope_domains: Topical domains/tags; semicolon-separated (e.g., health;terminology).
 - stage: Lifecycle status (enum: planning|draft|active|deprecated).
 - notes: Brief notes on mappings/alignments.
+
+In time, we may consider [extending this list](https://github.com/SocialCareData/initiatives/blob/main/tracking.md) to support tracking engagement with other initiatives.
