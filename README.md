@@ -29,6 +29,8 @@ Initially, a simple list to record initiatives with potentially overlapping scop
 | PSRB Child Specific Standards | | | | | | |
 | Accessible Information Standard | | | | | | |
 | schema.org | | | | | | |
+| Children's Social Care private dashboard early adopter scheme | | Department for Education | [Link](https://www.gov.uk/guidance/apply-to-become-a-childrens-social-care-private-dashboard-early-adopter) | | | The children’s social care (CSC) private dashboard early adopter scheme is part of our objective to improve how we collect, share and use CSC data to improve the outcomes for children, young people and families. |
+
 
 ### Field Descriptions
 - name: Full official name of the initiative.
