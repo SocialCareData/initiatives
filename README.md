@@ -1,40 +1,38 @@
-# initiatives
-A list of potentially related initiatives in Adult and Children's Social Care
+# Potentially related initiatives in Adult and Children's Social Care
 
 Initially, a simple list to record initiatives with potentially overlapping scopes to support strategic alignment and interoperability.
 
-[You can view the list here](https://github.com/SocialCareData/initiatives/blob/main/data/initiatives.csv)
+## Initiatives
 
-[Add to the list here](https://github.com/SocialCareData/initiatives/issues/new?template=new.yml&title=New+Initiative:)
+| Name | Acronym | Owner Organisation | Homepage | Scope Domains | Stage | Notes |
+|------|---------|-------------------|----------|---------------|-------|-------|
+| Common basic data set (CBDS): database | CBDS | Department for Education | [Link](https://www.gov.uk/government/publications/common-basic-data-set-cbds-database) | education; management information | active | The latest common basic data set (CBDS) and version control log for use by software suppliers developing management information systems. |
+| Adult Social Care Minimum Operational Data Standards (MODS) | | | | | | |
+| Fast Healthcare Interoperability Resources (FHIR) | | | | | | |
+| Snomed CT | | | | | | |
+| PRSB Core Information Standard Version 2.0 | | | | | | |
+| Healthy Child Record Standard | | | | | | |
+| Scalable Approach to Vulnerability via Interoperability (SAVVI) | | | | | | |
+| Open Referral UK data standard | | | | | | |
+| Integrated Care Systems (ICS) | | | | | | |
+| Integrated Children's System (ICS) | | | | | | |
+| NR3S | | | | | | |
+| Smart City Concept Model | | | | | | |
+| Childhood Measurement Central Return | | | | | | |
+| Adult Social Care Reporting Minimum Data Specification (RMDS) | | | | | | |
+| IPSV | | | | | | |
+| Child Protection Information Sharing (CP-IS) Service | | | | | | |
+| About me v1.2 | | | | | | |
+| International Patient Summary | | | | | | |
+| PSRB Child Specific Standards | | | | | | |
+| Accessible Information Standard | | | | | | |
+| schema.org | | | | | | |
 
-In time, we'll likely extend to provide an open record of status in relation to this programme.
-
-Suggested fields:
-- slug: Unique kebab-case ID for the initiative (used as the key), e.g., city-open-schema.
+### Field Descriptions
 - name: Full official name of the initiative.
 - acronym: Short code or abbreviation (optional).
 - owner_org: Organisation that owns or stewards the initiative.
-- governance_body: Committee/WG overseeing it (optional).
 - homepage_url: Public landing page for the initiative (URL).
-- spec_repo_url: Repository for specs/code (URL), if applicable.
 - scope_domains: Topical domains/tags; semicolon-separated (e.g., health;terminology).
-- geographies: Jurisdictions/regions covered; semicolon-separated (e.g., global;UK).
-- standard_types: Type(s) of standard; semicolon-separated (data-model;schema;api;vocabulary).
 - stage: Lifecycle status (enum: planning|draft|active|deprecated).
-- license: License covering the spec/data model (e.g., CC BY 4.0, Apache-2.0).
-- known_adopters: Public adopters/implementers; semicolon-separated (optional).
-- overlaps_with: Slugs of related/overlapping initiatives; semicolon-separated (optional).
-- dependencies: Slugs of prerequisite standards; semicolon-separated (optional).
-- interoperability_notes: Brief notes on mappings/alignments (public-safe).
-
-Possible enhancements for tracking:
-- engagement_status: Current relationship (enum: not-contacted|outreach-sent|in-conversation|collaborating|paused|no-response|not-pursuing).
-- priority: Importance for your team (enum: high|medium|low).
-- internal_lead: GitHub handle/team responsible (no personal contact details).
-- last_interaction_date: Date of last meaningful interaction (YYYY-MM-DD).
-- last_interaction_summary: One-line public-safe summary of the last interaction.
-- next_milestone: Next planned step or decision (short).
-- next_milestone_date: Target date for the next milestone (YYYY-MM-DD).
-- tracking_issue_url: Link to the GitHub issue tracking this initiative (URL).
-- last_updated_date: When this row was last edited (YYYY-MM-DD).
-- last_updated_by: GitHub handle of the editor who made the last change.
+- notes: Brief notes on mappings/alignments.
