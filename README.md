@@ -9,16 +9,16 @@ Initially, a simple list to record initiatives with potentially overlapping scop
 | Name | Acronym | Owner Organisation | Homepage | Scope Domains | Stage | Notes |
 |------|---------|-------------------|----------|---------------|-------|-------|
 | Common basic data set (CBDS): database | CBDS | Department for Education | [Link](https://www.gov.uk/government/publications/common-basic-data-set-cbds-database) | education; management information | active | The latest common basic data set (CBDS) and version control log for use by software suppliers developing management information systems. |
-| Adult Social Care Minimum Operational Data Standards (MODS) | | | | | | |
-| Fast Healthcare Interoperability Resources (FHIR) | | | | | | |
-| Snomed CT | | | | | | |
-| PRSB Core Information Standard Version 2.0 | | | | | | |
-| Healthy Child Record Standard | | | | | | |
-| Scalable Approach to Vulnerability via Interoperability (SAVVI) | | | | | | |
-| Open Referral UK data standard | | | | | | |
-| Integrated Care Systems (ICS) | | | | | | |
-| Integrated Children's System (ICS) | | | | | | |
-| NR3S | | | | | | |
+| Adult Social Care Minimum Operational Data Standards (MODS) | MODS | The Digitising Social Care programme (DiSC), within the NHS England Transformation Directorate | [Link](https://data.digitisingsocialcare.co.uk/browser/dataset/86081/0) | adult social care | active | |
+| Fast Healthcare Interoperability Resources (FHIR) | FIHR | Health Level 7 International (HL7) | [Link](https://hl7.org/fhir/) | health; data exchange | active | We're trying to be as interoperable as possible with FIHR due to its prominence in the health data ecosystem |
+| Snomed CT | | International Health Terminology Standards Development Organisation | [Link](https://www.snomed.org/) | health | active | |
+| PRSB Core Information Standard Version 2.0 | | PRSB (Professional Record Standards Body), commissioned by NHS Digital | [Link](https://theprsb.org/standards/core-information-standard/) | health; child social care | active | |
+| Healthy Child Record Standard | | PRSB (Professional Record Standards Body), commissioned by NHS Digital | [Link](https://theprsb.org/standards/healthychildrecordstandard/) | children, health | active | |
+| Scalable Approach to Vulnerability via Interoperability (SAVVI) | SAVVI | iStand UK | [Link](https://istanduk.org/savvi/)| adult social care | active | |
+| Open Referral UK data standard | | Open Referral | [Link](https://openreferraluk.org/) | public services | active | |
+| Integrated Care Systems (ICS) | ICS | NHS England | [Link](https://istanduk.org/savvi/)| social care | active | |
+| Integrated Children's System (ICS) | ICS | | | | | |
+| National Register of Taxi Licence Refusals | NR3S | | | | | |
 | Smart City Concept Model | | | | | | |
 | Childhood Measurement Central Return | | | | | | |
 | Adult Social Care Reporting Minimum Data Specification (RMDS) | | | | | | |
@@ -26,7 +26,7 @@ Initially, a simple list to record initiatives with potentially overlapping scop
 | Child Protection Information Sharing (CP-IS) Service | | | | | | |
 | About me v1.2 | | | | | | |
 | International Patient Summary | | | | | | |
-| PSRB Child Specific Standards | | | | | | |
+| PSRB Child Specific Standards | | PRSB (Professional Record Standards Body), commissioned by NHS Digital | [Link](https://theprsb.org/standards/core-information-standard/) | health;  social care | active | |
 | Accessible Information Standard | | | | | | |
 | schema.org | | | | | | |
 | Children's Social Care private dashboard early adopter scheme | | Department for Education | [Link](https://www.gov.uk/guidance/apply-to-become-a-childrens-social-care-private-dashboard-early-adopter) | | | The children’s social care (CSC) private dashboard early adopter scheme is part of our objective to improve how we collect, share and use CSC data to improve the outcomes for children, young people and families. |
