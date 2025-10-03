@@ -8,16 +8,15 @@ Initially, a simple list to record initiatives with potentially overlapping scop
 
 | Name | Acronym | Owner Organisation | Homepage | Scope Domains | Stage | Notes |
 |------|---------|-------------------|----------|---------------|-------|-------|
-| Common basic data set (CBDS): database | CBDS | Department for Education | [Link](https://www.gov.uk/government/publications/common-basic-data-set-cbds-database) | education; management information | active | The latest common basic data set (CBDS) and version control log for use by software suppliers developing management information systems. |
-| Adult Social Care Minimum Operational Data Standards (MODS) | MODS | The Digitising Social Care programme (DiSC), within the NHS England Transformation Directorate | [Link](https://data.digitisingsocialcare.co.uk/browser/dataset/86081/0) | adult social care | active | |
-| Fast Healthcare Interoperability Resources (FHIR) | FIHR | Health Level 7 International (HL7) | [Link](https://hl7.org/fhir/) | health; data exchange | active | We're trying to be as interoperable as possible with FIHR due to its prominence in the health data ecosystem |
+| Common basic data set: database | CBDS | Department for Education | [Link](https://www.gov.uk/government/publications/common-basic-data-set-cbds-database) | education; management information | active | The latest common basic data set (CBDS) and version control log for use by software suppliers developing management information systems. |
+| Adult Social Care Minimum Operational Data Standards | MODS | The Digitising Social Care programme (DiSC), within the NHS England Transformation Directorate | [Link](https://data.digitisingsocialcare.co.uk/browser/dataset/86081/0) | adult social care | active | |
+| Fast Healthcare Interoperability Resources | FIHR | Health Level 7 International (HL7) | [Link](https://hl7.org/fhir/) | health; data exchange | active | We're trying to be as interoperable as possible with FIHR due to its prominence in the health data ecosystem |
 | Snomed CT | | International Health Terminology Standards Development Organisation | [Link](https://www.snomed.org/) | health | active | |
 | PRSB Core Information Standard Version 2.0 | | PRSB (Professional Record Standards Body), commissioned by NHS Digital | [Link](https://theprsb.org/standards/core-information-standard/) | health; child social care | active | |
 | Healthy Child Record Standard | | PRSB (Professional Record Standards Body), commissioned by NHS Digital | [Link](https://theprsb.org/standards/healthychildrecordstandard/) | children, health | active | |
 | Scalable Approach to Vulnerability via Interoperability (SAVVI) | SAVVI | iStand UK | [Link](https://istanduk.org/savvi/)| adult social care | active | |
 | Open Referral UK data standard | | Open Referral | [Link](https://openreferraluk.org/) | public services | active | |
-| Integrated Care Systems (ICS) | ICS | NHS England | [Link](https://istanduk.org/savvi/)| social care | active | |
-| Integrated Children's System (ICS) | ICS | | | | | |
+| Integrated Care Systems | ICS | NHS England | [Link](https://istanduk.org/savvi/)| social care | active | Also covers previous Integrated Children's System (ICS)|
 | National Register of Taxi Licence Refusals, Revocations and Suspensions | NR3S | National Anti-Fraud Network & Local Government Association | [Link](https://www.local.gov.uk/topics/licences-regulations-and-trading-standards/national-register-taxi-and-private-hire-licence) | transport | active | |
 | Smart City Concept Model | | iStand UK | [Link](http://www.smartcityconceptmodel.com/) | smart cities; services| active | |
 | Childhood Measurement Central Return or National Child Measurement Programme Dataset | | NHS England | [Link](https://www.standards.nhs.uk/published-standards/childhood-measurement-central-return) | health | active | |
