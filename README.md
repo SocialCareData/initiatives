@@ -18,18 +18,17 @@ Initially, a simple list to record initiatives with potentially overlapping scop
 | Open Referral UK data standard | | Open Referral | [Link](https://openreferraluk.org/) | public services | active | |
 | Integrated Care Systems (ICS) | ICS | NHS England | [Link](https://istanduk.org/savvi/)| social care | active | |
 | Integrated Children's System (ICS) | ICS | | | | | |
-| National Register of Taxi Licence Refusals | NR3S | | | | | |
-| Smart City Concept Model | | | | | | |
-| Childhood Measurement Central Return | | | | | | |
-| Adult Social Care Reporting Minimum Data Specification (RMDS) | | | | | | |
-| IPSV | | | | | | |
-| Child Protection Information Sharing (CP-IS) Service | | | | | | |
-| About me v1.2 | | | | | | |
-| International Patient Summary | | | | | | |
-| PSRB Child Specific Standards | | PRSB (Professional Record Standards Body), commissioned by NHS Digital | [Link](https://theprsb.org/standards/core-information-standard/) | health;  social care | active | |
-| Accessible Information Standard | | | | | | |
-| schema.org | | | | | | |
-| Children's Social Care private dashboard early adopter scheme | | Department for Education | [Link](https://www.gov.uk/guidance/apply-to-become-a-childrens-social-care-private-dashboard-early-adopter) | | | The children’s social care (CSC) private dashboard early adopter scheme is part of our objective to improve how we collect, share and use CSC data to improve the outcomes for children, young people and families. |
+| National Register of Taxi Licence Refusals, Revocations and Suspensions | NR3S | National Anti-Fraud Network & Local Government Association | [Link](https://www.local.gov.uk/topics/licences-regulations-and-trading-standards/national-register-taxi-and-private-hire-licence) | transport | active | |
+| Smart City Concept Model | | iStand UK | [Link](http://www.smartcityconceptmodel.com/) | smart cities; services| active | |
+| Childhood Measurement Central Return or National Child Measurement Programme Dataset | | NHS England | [Link](https://www.standards.nhs.uk/published-standards/childhood-measurement-central-return) | health | active | |
+| Adult Social Care Reporting Minimum Data Specification (RMDS) | | Department of Health and Social Care | [Link](https://data.digitisingsocialcare.co.uk/browser/dataset/159503/0) | health; social care | active | |
+| IPSV | | Local e-Government Standards Body | [Link](https://www.localegovnp.org.uk/default.asp?sID=1107261787838) | public services| defunct, replaced by e-Government Metadata Standard | |
+| Child Protection Information Sharing (CP-IS) Service | | NHS England | [Link](https://digital.nhs.uk/services/child-protection-information-sharing-service) | health; children | active | |
+| About me v1.2 | | PRSB | [Link](https://theprsb.org/standards/aboutme/)| personal data; health; social care | active | |
+| International Patient Summary | | The Joint Initiative Council for Global Health Informatics Standardization | [Link](https://international-patient-summary.net/) | health | active | | 
+| Accessible Information Standard (DCB1605 Accessible Information) | | NHS England | [Link](https://www.england.nhs.uk/about/equality/equality-hub/patient-equalities-programme/equality-frameworks-and-information-standards/accessibleinfo/) | health | active | |
+| Person | | schema.org | [Link](https://schema.org/Person) | person | active | |
+| Children's Social Care private dashboard early adopter scheme | | Department for Education | [Link](https://www.gov.uk/guidance/apply-to-become-a-childrens-social-care-private-dashboard-early-adopter) | children; education | active | The children’s social care (CSC) private dashboard early adopter scheme is part of our objective to improve how we collect, share and use CSC data to improve the outcomes for children, young people and families. |
 
 
 ### Field Descriptions
